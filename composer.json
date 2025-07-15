@@ -1,0 +1,16 @@
+{
+    "name": "bernabe/student-management",
+    "description": "Basic student description",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Bernabe\\StudentManagement\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Theryl B"
+        }
+    ],
+    "require": {}
+}
